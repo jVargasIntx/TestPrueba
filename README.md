@@ -7,3 +7,5 @@ Nuevos cambios en el Readme, deshaciendo los anteriores
 
 Cambios desde repo local
 Cambios linea 9 desde web
+
+Creando problemas
